@@ -19,8 +19,8 @@ description = """
 toolchain = {'name': 'gompi', 'version': '2022a'}
 toolchainopts = {'usempi': True, 'strict': True, 'pic': True}
 
-source_urls = ['https://github.com/LLNL/mpiP/releases/download/3.5/']
-sources = ['mpip-3.5.tgz']
+source_urls = ['https://github.com/pg45517/mpiP/releases/download/3.5.1']
+sources = ['mpip-3.5.3.tgz']
 #checksums = ['688bf37d73211e6a915f9fc59c358282a266d166c0a10af07a38a01a473296f0']
 
 builddependencies = [
